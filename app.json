@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-expo-quickstart",
-    "slug": "react-native-expo-quickstart",
+    "name": "livekit",
+    "slug": "livekit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -45,6 +45,7 @@
       "eas": {
         "projectId": "3bbe8e8e-200f-4245-a247-27e8a66615fb"
       }
-    }
+    },
+    "owner": "mbahrsnc"
   }
 }
