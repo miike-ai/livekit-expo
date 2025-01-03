@@ -17,6 +17,7 @@ import {
 } from '@livekit/react-native';
 import { Track } from 'livekit-client';
 
+
 // registerGlobals must be called prior to using LiveKit.
 registerGlobals();
 
